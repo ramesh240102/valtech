@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11924" started-at="2017-06-19T21:55:35Z" finished-at="2017-06-19T21:55:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11924" started-at="2017-06-19T21:55:35Z" finished-at="2017-06-19T21:55:47Z">
+      <class name="com.valtech.qachallenge.ValtechHomePageTest">
+        <test-method status="PASS" signature="openValtechHomePage()[pri:0, instance:com.valtech.qachallenge.ValtechHomePageTest@46d56d67]" name="openValtechHomePage" is-config="true" duration-ms="7773" started-at="2017-06-19T22:55:28Z" finished-at="2017-06-19T22:55:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openValtechHomePage -->
+        <test-method status="PASS" signature="checkLatestNewsSection()[pri:1, instance:com.valtech.qachallenge.ValtechHomePageTest@46d56d67]" name="checkLatestNewsSection" duration-ms="80" started-at="2017-06-19T22:55:35Z" finished-at="2017-06-19T22:55:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLatestNewsSection -->
+        <test-method status="PASS" signature="clickAboutAndVerify()[pri:2, instance:com.valtech.qachallenge.ValtechHomePageTest@46d56d67]" name="clickAboutAndVerify" duration-ms="1664" started-at="2017-06-19T22:55:35Z" finished-at="2017-06-19T22:55:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickAboutAndVerify -->
+        <test-method status="PASS" signature="clickWorkAndVerify()[pri:3, instance:com.valtech.qachallenge.ValtechHomePageTest@46d56d67]" name="clickWorkAndVerify" duration-ms="4312" started-at="2017-06-19T22:55:37Z" finished-at="2017-06-19T22:55:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickWorkAndVerify -->
+        <test-method status="PASS" signature="clickServicesAndVerify()[pri:4, instance:com.valtech.qachallenge.ValtechHomePageTest@46d56d67]" name="clickServicesAndVerify" duration-ms="2164" started-at="2017-06-19T22:55:41Z" finished-at="2017-06-19T22:55:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickServicesAndVerify -->
+        <test-method status="PASS" signature="countValtechOffices()[pri:5, instance:com.valtech.qachallenge.ValtechHomePageTest@46d56d67]" name="countValtechOffices" duration-ms="3680" started-at="2017-06-19T22:55:44Z" finished-at="2017-06-19T22:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countValtechOffices -->
+        <test-method status="PASS" signature="closeWebPage()[pri:0, instance:com.valtech.qachallenge.ValtechHomePageTest@46d56d67]" name="closeWebPage" is-config="true" duration-ms="3417" started-at="2017-06-19T22:55:47Z" finished-at="2017-06-19T22:55:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWebPage -->
+      </class> <!-- com.valtech.qachallenge.ValtechHomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
